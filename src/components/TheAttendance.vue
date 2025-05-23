@@ -1,5 +1,5 @@
 <script setup>
-import Tracks from './bases/Tracks.vue';
+import Tracks from './bases/Tracks.vue'
 </script>
 
 <template>
@@ -26,7 +26,7 @@ import Tracks from './bases/Tracks.vue';
 
 <style scoped>
 section {
-  background-color: var(--clr-primary-bg);
+  background-color: var(--clr-white);
 }
 
 .wrapper {
