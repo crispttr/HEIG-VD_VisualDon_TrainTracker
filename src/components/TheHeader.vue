@@ -5,9 +5,6 @@
   <section class="hero">
     <h1 class="title">TrainTracker</h1>
   </section>
-  <section class="hero">
-    <h1 class="title">TrainTracker</h1>
-  </section>
 </template>
 
 <style scoped>
